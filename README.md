@@ -43,3 +43,6 @@
 **Time Invested:** ~10 hours
 
 [See Week 1 Summary](WEEK-1-SUMMARY.md)
+
+### Week 2 🔄 IN PROGRESS
+**Focus:** SQL refresher + deeper analysis
