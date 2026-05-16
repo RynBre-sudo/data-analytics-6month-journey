@@ -43,4 +43,3 @@
 **Time Invested:** ~10 hours
 
 [See Week 1 Summary](WEEK-1-SUMMARY.md)
-**https://github.com/RynBre-sudo/data-analytics-6month-journey/blob/main/WEEK-1-SUMMARY.md**
