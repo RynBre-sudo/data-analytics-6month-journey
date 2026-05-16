@@ -24,4 +24,23 @@
 - Reforge courses
 
 ### Progress
-Week 1: [In progress...]
+## Progress Log
+
+### Week 1 ✅ COMPLETE
+**Focus:** Fundamentals setup + real data cleaning
+
+**What I Built:**
+- mission_launches.csv loaded and cleaned
+- 3 Python visualizations
+- 3 Tableau visualizations
+
+**Key Skills Practiced:**
+- pandas data cleaning
+- matplotlib visualization
+- Tableau basics
+- Real-world error troubleshooting
+
+**Time Invested:** ~10 hours
+
+[See Week 1 Summary](WEEK-1-SUMMARY.md)
+**https://github.com/RynBre-sudo/data-analytics-6month-journey/blob/main/WEEK-1-SUMMARY.md**
