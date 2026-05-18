@@ -1,0 +1,12 @@
+# Jupyter checkpoints (auto-saves we don't need)
+.ipynb_checkpoints/
+
+# Python virtual environment
+.venv/
+
+# Tableau extracts (auto-generated)
+*.hyper
+
+# OS files
+.DS_Store
+Thumbs.db
