@@ -44,5 +44,37 @@
 
 [See Week 1 Summary](WEEK-1-SUMMARY.md)
 
-### Week 2 🔄 IN PROGRESS
-**Focus:** SQL refresher + deeper analysis
+### Week 2 ✅ COMPLETE
+**Focus:** SQL refresher + deeper Python analysis + business insights
+
+**What I Built:**
+- Business questions analysis notebook (BusinessQuestions.ipynb)
+- 3 saved business insight visualizations
+- First business insights document with embedded charts
+- Google Docs SQL tracker
+
+**Key Skills Practiced:**
+- SQL filtering (LIKE, IN, BETWEEN, IS NULL, AND, OR, NOT)
+- SQL aggregates (GROUP BY, HAVING)
+- pandas groupby analysis
+- Saving charts with plt.savefig()
+- Business insight writing (turning data into a story)
+- Git workflow (.gitignore, troubleshooting commits)
+
+**Key Findings:**
+- Launches peaked in the 1970s (1,012 launches)
+- Top success rates: ULA (99.3%), Arianespace (96.4%), Boeing (96.3%)
+- Launch costs dropped ~61% from 2011 to 2020
+
+**Time Invested:** ~10-12 hours
+
+[See Week 2 Summary](WEEK-2-SUMMARY.md)
+
+### Week 3 🔄 IN PROGRESS
+**Focus:** SQL JOINs + Python depth + statistics + Excel intro
+
+**Planned:**
+- SQL JOINs deep dive (INNER, LEFT, RIGHT, FULL) — key interview skill
+- Python + pandas depth (Corey Schafer series)
+- Statistics refresher (Khan Academy)
+- Excel pivot tables intro
